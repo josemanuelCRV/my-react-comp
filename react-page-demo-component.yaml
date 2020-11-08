@@ -4,7 +4,7 @@ metadata:
   name: react-page-demo
   description: Reading my comp from github
   annotations:
-    github.com/project-slug: josemanuelCRV/react-page-demo
+    github.com/project-slug: josemanuelCRV/my-react-comp
     jenkins.io/github-folder: folder-name/job-name  
   tags:
     - react
@@ -13,4 +13,4 @@ spec:
   lifecycle: pre-production
   owner: oasis@example.com
   implementsApis:
-    - https://josemanuelcrv.github.io/react-page-demo/
+    - https://petstore.swagger.io/v2/swagger.json
